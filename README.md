@@ -1,16 +1,8 @@
-# flutter_application_1
+A Flutter-based mental health assistant designed to provide supportive conversation, mood tracking, and well-being insights. This project serves as a foundation for integrating AI-powered chatbot capabilities, custom wellness tools, and an intuitive mobile UI.
 
-A new Flutter project.
+## Features
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###  Conversational Mental Health Assistant
+- Chat-style interface with emotional tone understanding
+- Supports integration with AI/ML backends (OpenAI, FastAPI, etc.)
+- Real-time text response processing
