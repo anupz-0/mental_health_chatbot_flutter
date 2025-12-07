@@ -143,9 +143,9 @@ class _NextScreenState extends State<NextScreen> with TickerProviderStateMixin {
           // Info Rectangle
           Positioned(
             top: screenHeight * 0.11,
-            left: screenWidth / 2 - 190,
+            left: screenWidth / 2 - 175,
             child: Container(
-              width: 380,
+              width: 350,
               height: 48,
               decoration: BoxDecoration(
                 color: const Color(0xFFA57DF2),
